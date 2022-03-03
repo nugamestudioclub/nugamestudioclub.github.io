@@ -6,4 +6,4 @@ This is still in progress and being developed on my end so don't touch rn. Not f
 
 ## Credit
 - 3D Logo Artwork created by Marco S. Hampel
-- 2D Logo Artwork created by Queenie Liang
+- 2D Logo Artwork created by Queenie Liang, Marty...
