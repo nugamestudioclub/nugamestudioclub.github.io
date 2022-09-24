@@ -9,8 +9,6 @@ it is reccomended to use **Bootstrap Studio**.
   - List games made in the club.
   - Shows in person pictures of club meetings.
   - Links to Socials.
-2. Leaderboard
-  - Under development
 
 ## TODO
 
