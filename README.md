@@ -1,4 +1,5 @@
 # Game Studio Club Website
+![Game Studio Club Logo](https://nugamestudioclub.github.io/assets/img/GameStudioBackdrop3.png)
 Uses github pages to run the club website
 The project is currently developed using **Bootstrap Studio** and Bootstrap elements, for further development
 it is reccomended to use **Bootstrap Studio**.
