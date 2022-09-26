@@ -6,9 +6,11 @@ it is reccomended to use **Bootstrap Studio**.
 ### Current Pages
 1. Homepage
   - Contains information about club meetings.
-  - List games made in the club.
+  - Partial public list of games made in the club.
   - Shows in person pictures of club meetings.
   - Links to Socials.
+2. Games Page
+  - Full list of games made in the club
 
 ## TODO
 
