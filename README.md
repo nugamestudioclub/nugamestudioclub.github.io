@@ -12,8 +12,6 @@ it is reccomended to use **Bootstrap Studio**.
 2. Games Page
   - Full list of games made in the club
 
-## TODO
-
 ## Credit
 - 3D Logo Artwork created by Marco S. Hampel
 - 2D Logo Artwork created by Queenie Liang, Marty...
